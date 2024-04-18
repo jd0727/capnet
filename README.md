@@ -1,4 +1,4 @@
-#CapNet: Learning Insulator Self-Blast from Bounding Box 
+# CapNet: Learning Insulator Self-Blast from Bounding Box 
 ##Data preparation
 We recommend users to organize data in VOC format
 ``` 
