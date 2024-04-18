@@ -1,5 +1,5 @@
 # CapNet: Learning Insulator Self-Blast from Bounding Box 
-##Data preparation
+## Data preparation
 We recommend users to organize data in VOC format
 ``` 
 -root
@@ -19,12 +19,12 @@ Run the python script to split the insulator. The output annotation file name, h
 ```
 python scripts/_split_insu_.py
 ```
-##Train CapNet
+## Train CapNet
 Run _wpsv_.py for CapNet training
 ```
 python scripts/_wpsv_.py
 ```
-##Result Visualize
+## Result Visualize
 Run _wpsv_visual_.py for model visualize
 ```
 python scripts/_wpsv_visual_.py
